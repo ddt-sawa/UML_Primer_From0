@@ -1,0 +1,9 @@
+﻿第1章問題2 UMLは何の略でしょう?
+
+①Universal Modeling Language
+②Ultra Modeling Language
+③United Modeling Language
+④Unified Modeling Language
+
+回答
+④
